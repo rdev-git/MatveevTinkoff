@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Matveev Tinkoff</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="null_url">Не удалось загрузить gif! (url null)</string>
+    <string name="tabs_last">Последние</string>
+    <string name="tabs_the_best">Лучшие</string>
+    <string name="tabs_random">Случайные</string>
+    <string name="repeat">Повторить</string>
+    <string name="tabs_hot">Горячие</string>
+    <string name="error_no_internet">Произошла ошибка при загрузке данных. Проверьте подключение к сети.</string>
+    <string name="developers_life">Developers Life</string>
+    <string name="empty_data">Не удалось получить даннные. Попробуйте еще раз.</string>
+</resources>
